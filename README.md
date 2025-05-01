@@ -47,10 +47,14 @@
 
 ---
 
-## 💡 Quote of the Day
+<h2 align="center" style="color:#ffffff;">💡 Quote of the Day</h2>
 
-> “I’m Good At Reading People. My Secret? I Look For The Worst In Them.” 
-> — **Elliot (Mr. Robot)**
+<div style="background-color:#1e1e1e; color:#ffffff; padding: 20px; border-left: 5px solid #00ffae; font-style: italic; font-size: 1.1em; border-radius: 8px;">
+
+💭 “I’m good at reading people. My secret? I look for the worst in them.”  
+<strong style="color:#00ffae;">— Elliot Alderson</strong> <em>(Mr. Robot)</em>
+
+</div>
 
 ---
 
