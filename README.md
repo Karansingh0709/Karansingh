@@ -47,38 +47,13 @@
 
 ---
 
-<h2 align="center" style="
-    color: #00fff7;
-    font-family: 'Courier New', monospace;
-    text-shadow: 0 0 5px #00fff7, 0 0 10px #00fff7;
-">
-    💾 Quote of the Day
-</h2>
+<h2 align="left">💾 Quote of the Day</h2>
 
-<div style="
-    background: #0d0d0d;
-    border: 1px solid #00fff7;
-    padding: 20px;
-    margin: 20px auto;
-    max-width: 600px;
-    border-radius: 8px;
-    box-shadow: 0 0 15px #00fff7;
-    font-family: 'Courier New', monospace;
-    color: #00fff7;
-    font-size: 1.1em;
-    line-height: 1.5;
-    position: relative;
-">
+<blockquote>
+    <p><em>I’m good at reading people. My secret? I look for the worst in them.</em></p>
+    <p align="right"><strong>Elliot Alderson</strong> <em>(Mr. Robot)</em></p>
+</blockquote>
 
-    <span style="color: #ff00ff; font-size: 2em; position: absolute; top: 10px; left: 15px;">“</span>
-    <span style="display: block; margin-left: 30px;">
-        I’m good at reading people. My secret? I look for the worst in them.
-    </span>
-    <br>
-    <div align="right" style="color: #ff00ff; font-size: 0.95em;">
-        — Elliot Alderson <em>(Mr. Robot)</em>
-    </div>
-</div>
 
 ---
 
