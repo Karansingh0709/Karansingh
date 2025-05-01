@@ -1,4 +1,4 @@
-# 👋 Hii there, Welcome to my GitHub Profile.
+# Hii there, Welcome to my GitHub Profile 👋
 
 ## 🚀 About Me
 - 🎓 Currently pursuing BTech Eelectronics and Telecommunication engineering at [VIT Pune].
