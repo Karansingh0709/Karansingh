@@ -1,5 +1,5 @@
 <h1 align="left">Welcome 👋 I'm Karansingh Pardeshi</h1>
-<p align="center">🔐 Aspiring Cybersecurity Engineer | Security Operations | SIEM | Threat Detection</p>
+<p align="left">🔐 Aspiring Cybersecurity Engineer | Security Operations | SIEM | Threat Detection</p>
 
 ---
 
