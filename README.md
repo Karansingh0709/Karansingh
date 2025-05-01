@@ -47,13 +47,7 @@
 
 ---
 
-<h2 align="left">💾 Quote of the Day</h2>
-
-<blockquote>
-    <p><em>I’m good at reading people. My secret? I look for the worst in them.</em></p>
-    <p align="right"><strong>Elliot Alderson</strong> <em>(Mr. Robot)</em></p>
-</blockquote>
-
+![Quote](https://img.shields.io/badge/💬_Cyber_Quote-I_look_for_the_worst_in_them.-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
 
