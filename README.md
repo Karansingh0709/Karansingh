@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **B.Tech in Electronics and Telecommunication Engineering** at [VIT Pune]
+- 🎓 Currently pursuing **B.Tech in Electronics and Telecommunication Engineering** at VIT Pune
 - 🛠️ Working on **AccessGuard** & **NetSleuth**
 - 📚 Learning about **SIEM** & **SOAR** (Security Orchestration, Automation, and Response)
 - 💬 Ask me anything about **Cybersecurity / Information Security**
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
