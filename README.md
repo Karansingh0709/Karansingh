@@ -47,7 +47,16 @@
 
 ---
 
-![Quote](https://img.shields.io/badge/💬_Cyber_Quote-I_look_for_the_worst_in_them.-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white)
+<h2 align="left">💾 <span style="font-family:Courier New;">Quote of the Day</span></h2>
+
+╔════════════════════════════════════════════════════════════════╗  
+║                                                                ║  
+║  💬 *“I’m good at reading people. My secret? I look for the    ║  
+║  worst in them.”*                                              ║  
+║                                                                ║  
+║                                             — Elliot Alderson  ║  
+║                                               _(Mr. Robot)_    ║  
+╚════════════════════════════════════════════════════════════════╝
 
 ---
 
