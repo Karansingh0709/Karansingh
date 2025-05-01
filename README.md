@@ -47,12 +47,22 @@
 
 ---
 
-<h2 align="center" style="color:#ffffff;">💡 Quote of the Day</h2>
+<h2 align="left" style="color:#00ffe0; font-family: 'Courier New', monospace;">💡 Quote of the Day</h2>
 
-<div style="background-color:#1e1e1e; color:#ffffff; padding: 20px; border-left: 5px solid #00ffae; font-style: italic; font-size: 1.1em; border-radius: 8px;">
+<div style="
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  color: #ffffff;
+  padding: 20px;
+  border-left: 5px solid #ff00c8;
+  font-style: italic;
+  font-size: 1.1em;
+  font-family: 'Courier New', monospace;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ff00c8;
+">
 
 💭 “I’m good at reading people. My secret? I look for the worst in them.”  
-<strong style="color:#00ffae;">— Elliot Alderson</strong> <em>(Mr. Robot)</em>
+<strong style="color:#00ffe0;">— Elliot Alderson</strong> <em>(Mr. Robot)</em>
 
 </div>
 
