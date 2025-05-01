@@ -57,7 +57,7 @@
 ## 😂 Security Meme 
 
 <p align="center">
-  <img src=""C:\Users\parde\Documents\aws\meme.jpeg"" alt="Security Meme" width="500"/>
+  <img src="https://postimg.cc/XZy29RZS" alt="Security Meme" width="500"/>
 </p>
 
 ---
