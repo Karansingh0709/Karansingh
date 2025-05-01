@@ -57,7 +57,7 @@
 ## 😂 Security Meme 
 
 <p align="center">
-  <img src="https://postimg.cc/XZy29RZS" alt="Security Meme" width="500"/>
+  <img src="https://i.postimg.cc/VNK3P1m6/meme.jpg" alt="Security Meme" width="500"/>
 </p>
 
 ---
